@@ -57,8 +57,5 @@ public class Server {
             return n * factorial(n - 1);
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 14d0e024037ba34e8c76acc2432a5e7f41e37685
+
