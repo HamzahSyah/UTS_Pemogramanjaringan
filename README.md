@@ -6,4 +6,4 @@ Program ini dibuat oleh
 2. Muhammad Rizky Fuziansyah (362201028)
 3. Sansan Syahrul Hidayah (362201015)
 
-
+Semoga dengan adanya program ini dapat bermanfaat bagi semua orang yang membutuhkannya.
